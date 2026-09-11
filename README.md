@@ -1,14 +1,17 @@
 # Hi, I'm Lijith 👋
 
-**AI/ML Security Engineer @ Flipkart** — I build production AI systems and I can explain them to anyone.
+**AI/ML Security Engineer & Solution Architect @ Flipkart** · Bengaluru, India
 
-I work where **AI engineering meets security**: multi-agent systems with LangGraph, RAG, and the full
-stack from model to deployment to guardrails. I care about the gap between an AI *demo* and an AI
-*product* — reliability, security, and memory are where that gap lives, and that's what I build.
+Security Engineer and Solution Architect specializing in **AI/ML**, with 5 years of building — I take
+AI products from architecture to production, and I work where **AI engineering meets security**:
+multi-agent systems with LangGraph, RAG, and the full stack from model to deployment to guardrails.
+I care about the gap between an AI *demo* and an AI *product* — reliability, security, and memory are
+where that gap lives, and that's what I build.
 
-- 🔭 Currently building **local-first and production AI tools** (see pinned repos).
-- 🧠 Interests: multi-agent orchestration · AI security & red-teaming · agent memory & context engineering · responsible AI / governance.
+- 🔭 Building **local-first and production AI tools** (see pinned repos).
+- 🛡️ Focus: multi-agent orchestration · AI security & red-teaming · agent memory & context engineering · responsible AI / governance.
 - 🗣️ I like making the complex feel obvious — from explaining prompt injection to a five-year-old to debating agent architectures with senior engineers.
+- 🎓 Microsoft Certified: **Azure AI Engineer Associate (AI-102)** · **DeepLearning.AI** Machine Learning Specialization.
 - 🌱 Deepening: AI governance, cloud/infra (GCP), frontier research.
 
 ## 🛠️ Selected work
@@ -23,9 +26,9 @@ stack from model to deployment to guardrails. I care about the gap between an AI
 
 ## 🧰 Toolbox
 
-`Python` · `LangGraph` · `FastAPI` · `React/TypeScript` · `Ollama` · `RAG / vector search` · `Docker` · `GCP`
+`Python` · `LangGraph` · `FastAPI` · `React/TypeScript` · `Ollama` · `RAG / vector search` · `Azure AI` · `GCP` · `Docker`
 
 ## 📫 Connect
 
-- LinkedIn: **[← add your LinkedIn URL]**
+- LinkedIn: https://www.linkedin.com/in/lijith-v-m/
 - Writing / talks: **[← add a link, or delete this line]**
