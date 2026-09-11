@@ -18,6 +18,7 @@ where that gap lives, and that's what I build.
 
 | Project | What it is |
 |---------|------------|
+| **[GuardLayer](https://github.com/Lijithvmv/Guard-Layer)** | A layered security scanner for LLM prompts & responses — detects prompt injection and jailbreaks. Library, CLI, and REST API. |
 | **[Newton](https://github.com/Lijithvmv/newton)** | A fully-local, offline, Claude-Code-style coding & project assistant that runs entirely on a local LLM — no cloud in the loop. |
 | **[Montage](https://github.com/Lijithvmv/montage)** | An AI video-production pipeline: from a topic to a finished, narrated, edited film via a chain of specialized agents. |
 | **[Sequel](https://github.com/Lijithvmv/sequel)** | Ask your database in plain English — an agentic natural-language-to-SQL assistant. |
