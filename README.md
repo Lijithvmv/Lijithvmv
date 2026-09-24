@@ -22,10 +22,10 @@ agent earn autonomy with evidence instead of being trusted by default.
 
 ## 🧰 Toolbox
 
-**AI:** `Python` · `LangGraph` · `RAG / GraphRAG` · `Knowledge graphs` · `pgvector` · `Ollama / local LLMs` · `Agent evaluation`
-**Platform:** `Kubernetes` · `Docker` · `Redis` · `Celery` · `PostgreSQL` · `JFrog Artifactory` · `GitHub Actions`
-**Cloud:** `Google Cloud` · `Google Workspace APIs` · `Azure Functions` · `Azure Container Apps` · `Azure AI`
-**App:** `FastAPI` · `React / TypeScript`
+- **AI:** `Python` · `LangGraph` · `RAG / GraphRAG` · `Knowledge graphs` · `pgvector` · `Ollama / local LLMs` · `Agent evaluation`
+- **Platform:** `Kubernetes` · `Docker` · `Redis` · `Celery` · `PostgreSQL` · `JFrog Artifactory` · `GitHub Actions`
+- **Cloud:** `Google Cloud` · `Google Workspace APIs` · `Azure Functions` · `Azure Container Apps` · `Azure AI`
+- **App:** `FastAPI` · `React / TypeScript`
 
 ## 📫 Connect
 
