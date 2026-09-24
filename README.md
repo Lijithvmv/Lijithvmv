@@ -10,7 +10,7 @@ agent earn autonomy with evidence instead of being trusted by default.
 - 🛡️ **Focus:** agentic AI · LLM & agent security · agent evaluation · RAG / GraphRAG & knowledge graphs · AI governance
 - 🔭 **Building in the open:** tools for the gap between an AI *demo* and an AI *product*
 - 🗣️ I like making the complex feel obvious, from prompt injection to agent governance, for any audience
-- 🎓 Microsoft Certified: **Azure AI Engineer Associate (AI-102)** · **DeepLearning.AI** Machine Learning Specialization
+- 🎓 **DeepLearning.AI** Machine Learning Specialization · Microsoft **Azure AI Engineer (AI-102)**, certified 2024
 
 ## 🛠️ Selected work
 
