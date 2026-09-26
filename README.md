@@ -6,10 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lijith-v-m/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lijithvmv)
-![Azure AI-102](https://img.shields.io/badge/Azure%20AI%20Engineer-AI--102-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure AZ-104](https://img.shields.io/badge/Azure%20Administrator-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-For **~5 years** I've shipped **production AI at enterprise scale** — usually as the whole delivery
+For **4+ years** I've shipped **production AI at enterprise scale** — usually as the whole delivery
 unit: product and architecture, backend and frontend, DevOps and deployment, and reporting to senior
 leadership. My work sits where **AI engineering meets security and governance**, so I design the
 controls in from day one rather than bolt them on, and I ship through real approval gates instead of
@@ -21,6 +19,8 @@ My range is the part I'd point to. I started in **applied ML and computer vision
 automation** — so I can move from the model layer to the prompt layer to the business and compliance
 layer in one conversation.
 
+🎓 DeepLearning.AI Machine Learning Specialization · Microsoft Azure AI Engineer (AI-102), certified 2024
+
 ### 🧭 What I do — end to end
 - **Architect** enterprise AI: multi-agent orchestration (LangGraph), enterprise RAG / GraphRAG over knowledge graphs and vector stores, and the security & governance controls designed in from day one.
 - **Build** full-stack: Python / FastAPI microservices, React / TypeScript SPAs, async workers (Celery), SQLAlchemy / Alembic, and the evaluation harnesses that prove a system works — not just demos.
@@ -31,7 +31,7 @@ layer in one conversation.
 - **Production multi-agent GenAI platform** — 30+ agents orchestrated in LangGraph with a runtime **plugin architecture** (agents and workflows loaded from configuration, not hardcoded), typed shared state with custom reducers, and parallel execution. Multi-tenant, with a JWT-driven security context and per-tenant data isolation enforced before retrieval.
 - **Enterprise RAG at scale** — hybrid vector search (HNSW) over **100K+ records** with metadata tenant isolation and audit logging. Re-architected embedding generation from per-item to batched calls, cutting **P95 latency 36s → 2s and cost ~96%**.
 - **Agentic GRC & security-automation platforms** — knowledge-graph controls, evidence pipelines, human-in-the-loop approval gates, and a hybrid **deterministic-agentic** design (*"AI writes the rules and the words; deterministic code computes the numbers"*) for a large enterprise security organization; sole architect and builder.
-- **Enterprise-scale cloud infrastructure** — Terraform-driven virtual-desktop platform scaling from 2 to **300 VMs / 1,500 sessions**, golden-image pipelines, cross-subscription private networking, and RBAC / managed-identity hardening.
+- **Enterprise-scale cloud infrastructure** — Terraform-driven virtual-desktop platform with golden-image pipelines and a planned scale-out path to **300 VMs / 1,500 sessions**, cross-subscription private networking, and RBAC / managed-identity hardening.
 - **Applied ML & computer vision** (earlier) — CNN document-image classification across 200+ component types, **GAN-based multi-view 3D / CAD generation** (hackathon winner), and regression models predicting engineering test outcomes at ~92% accuracy.
 
 ### 🚀 Open-source
