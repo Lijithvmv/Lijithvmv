@@ -37,6 +37,7 @@ layer in one conversation.
 ### 🚀 Open-source
 | Project | What it is |
 |---------|------------|
+| **[SOC-Graph-Guard](https://github.com/Lijithvmv/SOC-Graph-Guard)** | A security-first agentic SOC on LangGraph: verdicts computed from evidence (never from attacker-written text), graded autonomy, human approval before irreversible actions, injection screening and a tamper-evident audit. On labelled attack scenarios: guarded graph 7/7 with zero unsafe actions vs a naive agent's 2/7. |
 | **[GuardLayer](https://github.com/Lijithvmv/Guard-Layer)** | A production-grade security layer for LLM & agent apps — prompt-injection defense, tool-call & egress policy, session taint tracking, tamper-evident audit log. Zero-dependency core, hundreds of tests, an honest public benchmark. |
 | **[Newton](https://github.com/Lijithvmv/newton)** | A fully local, offline coding agent that makes a small on-device model genuinely useful by planning work into verifiable steps and engineering its context. Took the same 7B model from 0/6 to 6/6 on cross-file tasks. |
 | **[Sequel](https://github.com/Lijithvmv/Sequel)** | An agentic natural-language-to-SQL assistant with a dedicated validation stage — plain-English questions to correct, checked SQL. |
