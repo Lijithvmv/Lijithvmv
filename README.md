@@ -1,22 +1,24 @@
 # Hi, I'm Lijith 👋
 
-### AI/ML Engineer & Solution Architect — building secure, production AI · Bengaluru, India
+### AI/ML Security Engineer & Solution Architect · Bengaluru, India
+
+> **Forward-deployed engineer** — I take AI products from problem statement to production and own them there end to end: architecture, full-stack build, deployment, and operations — under real enterprise security, approval-gate, and scale constraints.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lijith-v-m/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lijithvmv)
 ![Azure AI-102](https://img.shields.io/badge/Azure%20AI%20Engineer-AI--102-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure AZ-104](https://img.shields.io/badge/Azure%20Administrator-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-I design, build, and ship **production AI systems end to end** — architecture and data modelling,
-full-stack development, deployment, and operations — and I've done it at enterprise scale for the
-last **~5 years**. I usually own a product across its whole lifecycle: problem statement →
-architecture → backend and frontend → DevOps and deployment → reporting to senior leadership. On my
-current work I *am* the delivery unit — product, architecture, engineering, and SRE for a portfolio
-of AI products.
+For **~5 years** I've shipped **production AI at enterprise scale** — usually as the whole delivery
+unit: product and architecture, backend and frontend, DevOps and deployment, and reporting to senior
+leadership. My work sits where **AI engineering meets security and governance**, so I design the
+controls in from day one rather than bolt them on, and I ship through real approval gates instead of
+stopping at a demo. When something has to go from *idea* to *live, monitored system*, I'm the person
+who carries it the whole way.
 
 My range is the part I'd point to. I started in **applied ML and computer vision**, moved into
-**production multi-agent GenAI platforms**, and now work where **AI engineering meets security and
-governance** — so I can move from the model layer to the prompt layer to the business and compliance
+**production multi-agent GenAI platforms**, and now build **secure agentic systems and GRC
+automation** — so I can move from the model layer to the prompt layer to the business and compliance
 layer in one conversation.
 
 ### 🧭 What I do — end to end
