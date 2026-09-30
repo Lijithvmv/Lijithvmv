@@ -55,7 +55,7 @@
 
   <!-- wordmark -->
   <g transform="translate(96,150)">
-    <rect x="0" y="-34" width="132" height="30" rx="6" fill="#08191c" stroke="#134e46"/>
+    <rect x="0" y="-34" width="156" height="30" rx="6" fill="#08191c" stroke="#134e46"/>
     <text x="16" y="-13" font-size="15" letter-spacing="3" font-weight="700" fill="#34d399">AI · SECURITY</text>
 
     <text x="0" y="74" font-size="84" font-weight="800" fill="#f0fbff" letter-spacing="-1">Lijith V M</text>
@@ -90,6 +90,6 @@
 
   <g transform="translate(96,600)" font-size="17" fill="#5a8f8a">
     <text x="0" y="0">github.com/Lijithvmv  ·  linkedin.com/in/lijith-v-m</text>
-    <text x="1184" y="0" text-anchor="end" fill="#4a7b76">Bengaluru, India</text>
+    <text x="1088" y="0" text-anchor="end" fill="#4a7b76">Bengaluru, India</text>
   </g>
 </svg>
