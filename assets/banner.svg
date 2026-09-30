@@ -1,0 +1,95 @@
+<svg viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050a0e"/>
+      <stop offset="0.5" stop-color="#07131a"/>
+      <stop offset="1" stop-color="#05100c"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+    <linearGradient id="ai" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="sec" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+    <radialGradient id="glowc" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.22"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowe" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#10b981" stop-opacity="0.22"/><stop offset="1" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#0f2430" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect width="1280" height="640" fill="url(#grid)" opacity="0.55"/>
+  <circle cx="1000" cy="240" r="320" fill="url(#glowc)"/>
+  <circle cx="1060" cy="430" r="300" fill="url(#glowe)"/>
+  <rect x="0" y="0" width="8" height="640" fill="url(#acc)"/>
+
+  <!-- right motif: AI node-network held inside a shield -->
+  <g transform="translate(1015,320)">
+    <path d="M0,-190 L158,-128 L158,44 Q158,158 0,216 Q-158,158 -158,44 L-158,-128 Z"
+          fill="#07171a" stroke="url(#sec)" stroke-width="4"/>
+    <g stroke="#155e5a" stroke-width="2">
+      <line x1="-86" y1="-70" x2="0" y2="-20"/>
+      <line x1="0" y1="-20" x2="86" y2="-64"/>
+      <line x1="0" y1="-20" x2="-52" y2="72"/>
+      <line x1="0" y1="-20" x2="64" y2="66"/>
+      <line x1="86" y1="-64" x2="64" y2="66"/>
+      <line x1="-86" y1="-70" x2="-52" y2="72"/>
+    </g>
+    <g fill="#07171a" stroke-width="3">
+      <circle cx="-86" cy="-70" r="12" stroke="url(#ai)"/>
+      <circle cx="86" cy="-64" r="12" stroke="url(#ai)"/>
+      <circle cx="-52" cy="72" r="12" stroke="url(#ai)"/>
+      <circle cx="64" cy="66" r="12" stroke="url(#ai)"/>
+      <circle cx="0" cy="-20" r="16" stroke="url(#acc)" stroke-width="4"/>
+    </g>
+  </g>
+
+  <!-- wordmark -->
+  <g transform="translate(96,150)">
+    <rect x="0" y="-34" width="132" height="30" rx="6" fill="#08191c" stroke="#134e46"/>
+    <text x="16" y="-13" font-size="15" letter-spacing="3" font-weight="700" fill="#34d399">AI · SECURITY</text>
+
+    <text x="0" y="74" font-size="84" font-weight="800" fill="#f0fbff" letter-spacing="-1">Lijith V M</text>
+    <text x="2" y="122" font-size="28" font-weight="700" fill="#9fe8dd">AI/ML Security Engineer &amp; Solution Architect</text>
+
+    <text x="2" y="170" font-size="21" fill="#8fc6cf">Forward-deployed engineer — problem statement → production → operations,</text>
+    <text x="2" y="200" font-size="21" fill="#8fc6cf">where AI engineering meets security, governance, and enterprise scale.</text>
+
+    <g font-size="16" font-weight="600" fill="#cdeef0">
+      <g transform="translate(0,250)">
+        <rect x="0" y="0" width="182" height="38" rx="19" fill="#08191c" stroke="#134e46"/>
+        <text x="20" y="25">Agents &amp; LLM systems</text>
+      </g>
+      <g transform="translate(194,250)">
+        <rect x="0" y="0" width="196" height="38" rx="19" fill="#08191c" stroke="#134e46"/>
+        <text x="20" y="25">Security &amp; governance</text>
+      </g>
+      <g transform="translate(402,250)">
+        <rect x="0" y="0" width="150" height="38" rx="19" fill="#08191c" stroke="#134e46"/>
+        <text x="20" y="25">Full-stack build</text>
+      </g>
+      <g transform="translate(0,298)">
+        <rect x="0" y="0" width="168" height="38" rx="19" fill="#08191c" stroke="#134e46"/>
+        <text x="20" y="25">Cloud &amp; DevOps</text>
+      </g>
+      <g transform="translate(180,298)">
+        <rect x="0" y="0" width="238" height="38" rx="19" fill="#08191c" stroke="#134e46"/>
+        <text x="20" y="25">4+ yrs production AI at scale</text>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(96,600)" font-size="17" fill="#5a8f8a">
+    <text x="0" y="0">github.com/Lijithvmv  ·  linkedin.com/in/lijith-v-m</text>
+    <text x="1184" y="0" text-anchor="end" fill="#4a7b76">Bengaluru, India</text>
+  </g>
+</svg>

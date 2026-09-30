@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Lijith V M — AI/ML Security Engineer & Solution Architect" width="100%">
+</p>
+
 # Hi, I'm Lijith 👋
 
 ### AI/ML Security Engineer & Solution Architect · Bengaluru, India
