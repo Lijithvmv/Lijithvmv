@@ -23,7 +23,7 @@ My range is the part I'd point to. I started in **applied ML and computer vision
 automation** — so I can move from the model layer to the prompt layer to the business and compliance
 layer in one conversation.
 
-🎓 DeepLearning.AI Machine Learning Specialization · Microsoft Azure AI Engineer (AI-102), certified 2024
+🎓 DeepLearning.AI Machine Learning Specialization · Microsoft Azure AI Engineer Associate (AI-102), 2024–2026
 
 ### 🧭 What I do — end to end
 - **Architect** enterprise AI: multi-agent orchestration (LangGraph), enterprise RAG / GraphRAG over knowledge graphs and vector stores, and the security & governance controls designed in from day one.
@@ -41,10 +41,10 @@ layer in one conversation.
 ### 🚀 Open-source
 | Project | What it is |
 |---------|------------|
-| **[SOC-Graph-Guard](https://github.com/Lijithvmv/SOC-Graph-Guard)** | A security-first agentic SOC on LangGraph: verdicts computed from evidence (never from attacker-written text), graded autonomy, human approval before irreversible actions, injection screening and a tamper-evident audit. On labelled attack scenarios: guarded graph 7/7 with zero unsafe actions vs a naive agent's 2/7. |
-| **[GuardLayer](https://github.com/Lijithvmv/Guard-Layer)** | A runtime security layer for AI agents that judges each action by what it would do and what it carries, not by recognising the attack: local work runs; data sent to a place only an outsider named, and irreversible actions an outsider chose, wait for a human. No model needed (milliseconds per decision). In replays it held about 1.6% of real Claude Code work and under 1% of other agents' work, and stopped 92% of 707 recorded frontier-model attacks with its detectors switched off. Beta; [evidence and limits](https://github.com/Lijithvmv/Guard-Layer/tree/phase2-structural-commands#what-the-evidence-says). |
-| **[Newton](https://github.com/Lijithvmv/newton)** | A fully local, offline coding agent that makes a small on-device model genuinely useful by planning work into verifiable steps and engineering its context. Took the same 7B model from 0/6 to 6/6 on cross-file tasks. |
-| **[Sequel](https://github.com/Lijithvmv/Sequel)** | An agentic natural-language-to-SQL assistant with a dedicated validation stage — plain-English questions to correct, checked SQL. |
+| **[SOC-Graph-Guard](https://github.com/Lijithvmv/SOC-Graph-Guard)** | A security-first agentic SOC on LangGraph: verdicts computed from evidence (never from attacker-written text), graded autonomy, human approval before irreversible actions, injection screening and a tamper-evident audit. On 16 attack scenarios I wrote (two modelled on published incidents): guarded graph 12/16 fully correct with 0 unsafe actions, vs a naive agent's 5/16 with 24 unsafe actions. |
+| **[GuardLayer](https://github.com/Lijithvmv/Guard-Layer)** | A runtime security layer for AI agents that judges each action by what it would do and what it carries, not by recognising the attack: local work runs; data sent to a place only an outsider named, and irreversible actions an outsider chose, wait for a human. No model needed (milliseconds per decision). Weakest first: on benchmarks it had never seen it started weak (19% on InjecAgent, 1 of 24 on ASB), and an attacker who knows its rules can get past it. In replay it held 1.7% of one developer's real Claude Code calls and 0.54% of another agent's work with no setup; on 707 recorded frontier-model attacks its rules were developed on, it held 76% of harmful calls with detectors off. Beta; [evidence and limits](https://github.com/Lijithvmv/Guard-Layer#what-the-evidence-says). |
+| **[Newton](https://github.com/Lijithvmv/newton)** | A fully local, offline coding agent that makes a small on-device model useful by planning work into verifiable steps and engineering its context. Took the same 7B model from 0/6 to 6/6 on cross-file tasks (two tasks, three runs each). |
+| **[Sequel](https://github.com/Lijithvmv/Sequel)** | A natural-language-to-SQL assistant with a validation stage and a deterministic read-only guard. A prototype: SQL accuracy is not yet evaluated. |
 
 ### 🧰 Tech stack
 
