@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lijith-v-m/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lijithvmv)
 
-For **4+ years** I've built production AI solutions and enterprise applications at the intersection of **enterprise
+For **5+ years** I've built production AI solutions and enterprise applications at the intersection of **enterprise
 AI, agentic engineering, application architecture and cybersecurity**.
 
 My work goes beyond building a model or a single application. I start by understanding the enterprise as a whole:
